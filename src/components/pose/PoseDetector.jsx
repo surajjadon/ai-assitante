@@ -231,8 +231,8 @@ const PoseDetector = () => {
   return (
     <div className="flex flex-col md:flex-row gap-6 bg-[#0f1117] min-h-screen text-white p-4">
       <div className="flex-1 flex flex-col gap-4">
-        <div className="relative w-full max-w-2xl mx-auto aspect-[4/3] rounded-lg overflow-hidden border-2 border-primary-600 bg-black self-center">
-          <video ref={videoRef} className="absolute inset-0 w-full h-full object-cover" playsInline muted autoPlay />
+     <div className="relative w-full max-w-2xl mx-auto aspect-[3/4] md:aspect-[4/3] rounded-lg overflow-hidden border-2 border-primary-600 bg-black self-center">
+        <video ref={videoRef} className="absolute inset-0 w-full h-full object-cover" playsInline muted autoPlay />
           <canvas ref={canvasRef} className="absolute inset-0 w-full h-full" />
         </div>
         <div className="flex flex-col md:flex-row gap-4">
