@@ -33,7 +33,8 @@ A real-time push-up and sit-up posture detection app using **MediaPipe Pose**, b
 
 ## 📸 Screenshots
 
-*(Include a screenshot or GIF here showing push-up tracking if you want)*
+![Screenshot 2025-04-22 205007](https://github.com/user-attachments/assets/755dee56-82dd-4650-b47a-d7207f474bc4)
+
 
 ## 🛠️ Installation
 
